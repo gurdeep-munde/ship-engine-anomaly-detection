@@ -79,5 +79,5 @@ Three reasons. First, it is **real industrial IoT data** with the awkwardness re
 
 ## Author
 
-Gurdeep Munde — Manufacturing Engineer (AEM / AMETEK MRO) and Cambridge Data Science Career Accelerator graduate.
-[LinkedIn](https://www.linkedin.com/in/gurdeepmunde) · gurdeepsmunde@gmail.com
+Gurdeep Munde — Manufacturing Engineer and Cambridge Data Science Career Accelerator graduate.
+[GitHub](https://github.com/gurdeep-munde)
